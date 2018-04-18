@@ -11,7 +11,7 @@ public class LmsOrchestrationApplication {
 	//test jenkins14
 	public static void main(String[] args) {
 		SpringApplication.run(LmsOrchestrationApplication.class, args);
-		System.out.println("test s322");
+		System.out.println("deploy");
 	}
 	
 	@Bean
